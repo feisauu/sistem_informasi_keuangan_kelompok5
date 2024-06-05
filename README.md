@@ -2,9 +2,9 @@
 ## Mata Kuliah Sistem Informasi Manajemen
 
  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Maintainer](https://img.shields.io/badge/Author-Kelompok_7_|_MI_2022_B-purple) 
+![Maintainer](https://img.shields.io/badge/Author-Kelompok_5_|_MI_2022_B-purple) 
 
 ![Maintainer](https://img.shields.io/badge/Author-Septi_Isdayanna_|_22091397045-blue)
 ![Maintainer](https://img.shields.io/badge/Author-Feis_Aulia_F_|_22091397053-blue)
